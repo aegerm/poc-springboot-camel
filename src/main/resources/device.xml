@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<device>
+    <id>569822</id>
+    <params>
+        <value>
+            <name>Raspberry PI 3</name>
+            <osName>Linux Raspbian</osName>
+            <numberProcessors>2</numberProcessors>
+        </value>
+    </params>
+</device>
